@@ -3,6 +3,8 @@ University End Year Project on Querying and Managing Databases
 
 This project creates a Bus Fleet System. A database is created around the tables designed in the files included. The goal is maximize efficiency to perform CRUD queries.
 
+**NB: Process of creating this application including the tools used are found in the report word document**
+
 Topics Learned:
 ---
 - Entities
